@@ -1,0 +1,33 @@
+.App {
+  
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.principal-card {
+  padding: 3rem;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 150px;
+  border: 2px solid black;
+  text-align: center;
+  font-size: small;
+  background-color: white;
+}
+
+.boton-aleatorio{
+  margin-top: 20px;
+  align-self: center;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+
+
